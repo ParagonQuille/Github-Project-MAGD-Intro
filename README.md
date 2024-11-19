@@ -1,1 +1,4 @@
 # Github-Project-MAGD-Intro
+### Lab five is a very simple project which draws simple shapes onto the canvas that serve as buttons. Two of the buttons activate when clicked, drawing shapes in a position relative to the mouse, and the other button activates when pressing the f key, performing the same action. 
+### Lab seven is a less simple project. It involved drawing shapes in groups so that they can be replicated, and using transformative functions to change the positions, orientations, and sizes of subsequent iterations of the shape groupings.
+### Lab ten returns to being more simple, and was a foray into importing a community-created library of functions. Importing the library was the hardest part to figure out, but after that it was very simple to figure out. The library imports functions that create gradient fills, rather than solid fills, allowing more visually interesting shapes
